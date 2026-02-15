@@ -5,7 +5,7 @@ import 'training_state.dart';
 import '../../data/services/firestore_service.dart';
 import '../../domain/logic/scoring_logic.dart';
 import '../../domain/entities/training_session.dart';
-import 'dart:math' show sqrt, pow, atan2, cos, sin;
+import 'dart:math' show sqrt, atan2, cos, sin;
 
 /// BLoC para gestionar el estado del entrenamiento
 class BlocEntrenamiento extends Bloc<EventoEntrenamiento, EstadoEntrenamiento> {
