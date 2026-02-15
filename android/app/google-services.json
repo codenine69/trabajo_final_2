@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826353461640",
+    "project_id": "nina-369",
+    "storage_bucket": "nina-369.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826353461640:android:e937883136232e71ba723d",
+        "android_client_info": {
+          "package_name": "com.g14.votacionesappg14"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBXZR6UpY95zSSXQ2jvPenpym-QLWmGLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
